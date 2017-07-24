@@ -6,3 +6,4 @@ init commit (no tag)
 - v0.1.0 - annotated
 - v0.1.1 - lightweight
 - v0.1.1-beta - annotated - do not merge (not a mainline commit)
+- v0.1.1-beta2 - lightweight - do not merge (not a mainline commit)
