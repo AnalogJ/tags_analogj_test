@@ -14,3 +14,4 @@ init commit (no tag)
 - empty commit
 - empty commit
 - empty commit
+- empty commit in PR
