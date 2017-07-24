@@ -7,3 +7,4 @@ init commit (no tag)
 - v0.1.1 - lightweight
 - v0.2.0 - lightweight
 - v0.3.0 - annotated
+- 0.4.0 - annotated
