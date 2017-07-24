@@ -10,3 +10,4 @@ init commit (no tag)
 - 0.4.0 - annotated
 - 0.4.1 - lightweight
 - empty commit
+- empty commit
