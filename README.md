@@ -9,3 +9,4 @@ init commit (no tag)
 - v0.3.0 - annotated
 - 0.4.0 - annotated
 - 0.4.1 - lightweight
+- empty commit
